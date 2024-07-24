@@ -28,8 +28,8 @@ To get started with the application, follow these steps to install the necessary
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ottototto/nextjs-express-login-template.git
-    cd nextjs-express-login-template
+    git clone https://github.com/ottototto/NextExpressAuth.git
+    cd nextexpressauth
     ```
 
 2. Install dependencies for both frontend and backend:
